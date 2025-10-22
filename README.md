@@ -33,3 +33,14 @@ git clone https://github.com/your-username/react-native-auth-app.git
 cd react-native-auth-app
 npm install
 npx pod-install # for iOS
+```
+
+## ▶️ Run the App
+### Android
+```bash
+npx react-native run-android
+```
+### iOS
+```bash
+npx react-native run-ios
+```
